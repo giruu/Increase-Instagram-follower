@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: application/json
+vary: Cookie, Accept-Language, Accept-Encoding
+cache-control: private, no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-language: en
+access-control-allow-origin: https://www.instagram.com
+access-control-allow-credentials: true
+content-length: 194
+content-encoding: gzip
+date: Mon, 06 Aug 2018 06:24:18 GMT
+strict-transport-security: max-age=60
+set-cookie: csrftoken=inptLrUFmtu8qdM58OR1NLGfGvvC3HN8; Domain=.instagram.com; expires=Mon, 05 Aug 2019 06:24:18 GMT; Max-Age=31449600; Path=/; Secure
+set-cookie: rur=PRN; Domain=.instagram.com; Path=/
+
+{"account_created": false, "errors": {"ip": ["The IP address you are using has been flagged as an open proxy. If you believe this to be incorrect, please visit http://help.instagram.com/"]}, "status": "ok", "error_type": "signup_block"}

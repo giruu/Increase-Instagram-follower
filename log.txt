@@ -1,0 +1,25 @@
+HTTP/2 200 
+content-type: application/json
+vary: Cookie, Accept-Language
+cache-control: private, no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-language: en
+access-control-allow-origin: https://www.instagram.com
+access-control-allow-credentials: true
+date: Sun, 05 Aug 2018 17:27:16 GMT
+content-length: 66
+strict-transport-security: max-age=60
+set-cookie: target=""; Domain=instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: target=""; Domain=.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: target=""; Domain=i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: target=""; Domain=.i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: target=""; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: target=""; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: target=""; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: csrftoken=Lk1Ulzw8XJQ2yYZAlEuLJkcW8lSTFPKc; Domain=.instagram.com; expires=Sun, 04 Aug 2019 17:27:16 GMT; Max-Age=31449600; Path=/; Secure
+set-cookie: rur=FRC; Domain=.instagram.com; Path=/
+set-cookie: ds_user_id=8372727575; Domain=.instagram.com; expires=Sat, 03-Nov-2018 17:27:16 GMT; Max-Age=7776000; Path=/
+set-cookie: sessionid=IGSC73fc5b0a4ba2dfbb11a2ff00401dc7ced3a39099c31ae963f5fa7337d51682e1%3AkfOLD7VwBmDJcugd2v48gYC7R00AimvY%3A%7B%22_auth_user_id%22%3A8372727575%2C%22_auth_user_backend%22%3A%22accounts.backends.CaseInsensitiveModelBackend%22%2C%22_auth_user_hash%22%3A%22%22%2C%22_platform%22%3A4%2C%22_token_ver%22%3A2%2C%22_token%22%3A%228372727575%3ARihC6BSjaQL4OGT9UvY6CR0GZs2WEhRI%3A8dcd6d30721309de862f8233fba2fef5719bf40bbcfffc413470f3dc55eb3c12%22%2C%22last_refreshed%22%3A1533490036.503960371%7D; Domain=.instagram.com; expires=Sat, 03 Nov 2018 17:27:16 GMT; HttpOnly; Max-Age=7776000; Path=/; Secure
+
+{"account_created": true, "user_id": "8372727575", "status": "ok"}

@@ -1,0 +1,39 @@
+HTTP/2 403 
+content-type: application/json
+cache-control: private, no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+vary: Cookie, Accept-Language
+content-language: en
+access-control-allow-origin: https://www.instagram.com
+access-control-allow-credentials: true
+date: Mon, 06 Aug 2018 06:24:22 GMT
+content-length: 122
+strict-transport-security: max-age=60
+set-cookie: rur=""; Domain=i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: rur=""; Domain=.i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: rur=""; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: rur=""; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: rur=""; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: rur=FTW; Domain=.instagram.com; Path=/
+set-cookie: ds_user_id=""; Domain=i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: ds_user_id=""; Domain=.i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: ds_user_id=""; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: ds_user_id=""; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: ds_user_id=""; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: ds_user_id="sessionid= rur=FRC"; Domain=.instagram.com; Path=/
+set-cookie: mid=""; Domain=i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: mid=""; Domain=.i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: mid=""; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: mid=""; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: mid=""; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: mid=W2fplgAEAAETWQCvVGSsxuQwVl2_; Domain=.instagram.com; expires=Sun, 01 Aug 2038 06:24:22 GMT; Max-Age=630720000; Path=/
+set-cookie: csrftoken=""; Domain=i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: csrftoken=""; Domain=.i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: csrftoken=""; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: csrftoken=""; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: csrftoken=""; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=/
+set-cookie: csrftoken=inptLrUFmtu8qdM58OR1NLGfGvvC3HN8; Domain=.instagram.com; expires=Mon, 05-Aug-2019 06:24:22 GMT; Max-Age=31449600; Path=/; Secure
+set-cookie: mcd=3; Domain=.instagram.com; expires=Sun, 01 Aug 2038 06:24:22 GMT; Path=/
+
+{"message": "unauthorized", "redirect_url": "/accounts/login/?next=/web/friendships/1650532993/follow/", "status": "fail"}
