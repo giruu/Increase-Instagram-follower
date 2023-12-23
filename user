@@ -1,2 +1,0 @@
-user=(girwar nitesh nemi);
-echo ${user[1]};

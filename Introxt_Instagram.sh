@@ -75,7 +75,7 @@ do
              -H 'X-Forwarded-For: ${ip_addr[$i]}' \
              -X POST \
              # ...other headers...
-             -o follow.txt
+             -o follow.json
         sleep 3s
     done
 done
