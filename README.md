@@ -11,12 +11,12 @@ This Bash script uses curl to automate Instagram account creation and follow spe
 Clone the repository:
 
 ```bash
-git clone https://github.com/giruu/Instagram-Bulk-Joiner.git
+git clone https://github.com/giruu/Increase-Instagram-follower.git
 ```
 Navigate to the cloned directory:
 
 ```bash
-cd Instagram-Bulk-Joiner
+cd Increase-Instagram-follower
 ```
 Run the script:
 ```bash
